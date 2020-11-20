@@ -1,0 +1,13 @@
+C:\FinalTest\FinalTest\FinalTest\bin\Debug\netcoreapp3.1\FinalTest.exe
+C:\FinalTest\FinalTest\FinalTest\bin\Debug\netcoreapp3.1\FinalTest.deps.json
+C:\FinalTest\FinalTest\FinalTest\bin\Debug\netcoreapp3.1\FinalTest.runtimeconfig.json
+C:\FinalTest\FinalTest\FinalTest\bin\Debug\netcoreapp3.1\FinalTest.runtimeconfig.dev.json
+C:\FinalTest\FinalTest\FinalTest\bin\Debug\netcoreapp3.1\FinalTest.dll
+C:\FinalTest\FinalTest\FinalTest\bin\Debug\netcoreapp3.1\FinalTest.pdb
+C:\FinalTest\FinalTest\FinalTest\obj\Debug\netcoreapp3.1\FinalTest.csprojAssemblyReference.cache
+C:\FinalTest\FinalTest\FinalTest\obj\Debug\netcoreapp3.1\FinalTest.AssemblyInfoInputs.cache
+C:\FinalTest\FinalTest\FinalTest\obj\Debug\netcoreapp3.1\FinalTest.AssemblyInfo.cs
+C:\FinalTest\FinalTest\FinalTest\obj\Debug\netcoreapp3.1\FinalTest.csproj.CoreCompileInputs.cache
+C:\FinalTest\FinalTest\FinalTest\obj\Debug\netcoreapp3.1\FinalTest.dll
+C:\FinalTest\FinalTest\FinalTest\obj\Debug\netcoreapp3.1\FinalTest.pdb
+C:\FinalTest\FinalTest\FinalTest\obj\Debug\netcoreapp3.1\FinalTest.genruntimeconfig.cache
